@@ -1,0 +1,32 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 2rem;
+}
+h1 {
+  text-align: center;
+}
+label {
+  display: inline-block;
+  min-width: 140px;
+  margin: 0.5rem 0;
+}
+input, select {
+  padding: 0.4rem;
+  margin: 0.2rem 0;
+}
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+}
+.materials input {
+  margin-bottom: 0.5rem;
+}
+.quote-summary {
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
